@@ -17,3 +17,6 @@
 
 ### etc
 - etc/[67]memo.md: メモ
+
+### 思考ノート
+- thinking-notes/[67]thinking-notes-001.md: コンセプト

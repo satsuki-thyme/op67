@@ -1,32 +1,54 @@
-# 基本設計
-basic character design:
-  - 
+# キャラクターの基本設計
+basic character design: # キャラクターの基本設計
+  - name: セト
+    charm: # 魅力
+      title: # 題して
+        - おとなしめのホーム・アローン
+      entity: # 実際
+        predicament: # 苦境
+          - ぐっと耐えて果敢に立ち向かう
+        normaly: # 普段
+          - 明るく元気
+    desire: # 欲求
+      contents: # 題して
+        - 世界を見たい
+      conflict: # 欲求と衝突するもの
+        - 各地での困難
+      past connected to desire: # 欲求につながる過去
+        - 屋敷にあった本から興味を持った
+    ordeal: # 試練
+      - 女の子を救う
+    right point: # 試練を乗り越えられた理由（正しかったところ）
+      - 女の子はいくつになってもお姫様だという信念
+    wrong point: # 試練を乗り越えられなかった理由（間違ったところ）
+      - 
+
+  - name: ネイア
     charm:
-      name:
-        - 
+      title:
+        - デキる少女
       entity:
         predicament:
-          - 
+          - 凜として立ち向かう
         normaly:
-          - 
+          - 優しく礼儀正しい
     desire:
-      name:
-        - 
+      contents:
+        - セトといつも睦まじくしていたい
       conflict:
-        - 
+        - 各地での困難
       past connected to desire:
-        - 
-        - 
+        - 幼少の頃から仕えていてずっと好きだった
     ordeal:
-      - 
+      - セトが他の女の子にかまけるのに耐えて一緒に助ける
     right point:
-      - 
+      - 寛容
     wrong point:
       - 
 
-  - 
+  - name: 
     charm:
-      name:
+      title:
         - 
       entity:
         predicament:
@@ -34,53 +56,7 @@ basic character design:
         normaly:
           - 
     desire:
-      name:
-        - 
-      conflict:
-        - 
-      past connected to desire:
-        - 
-    ordeal:
-      - 
-    right point:
-      - 
-    wrong point:
-      - 
-
-  - 
-    charm:
-      name:
-        - 
-      entity:
-        predicament:
-          - 
-        normaly:
-          - 
-    desire:
-      name:
-        - 
-      conflict:
-        - 
-      past connected to desire:
-        - 
-    ordeal:
-      - 
-    right point:
-      - 
-    wrong point:
-      - 
-
-  - 
-    charm:
-      name:
-        - 
-      entity:
-        predicament:
-          - 
-        normaly:
-          - 
-    desire:
-      name:
+      contents:
         - 
       conflict:
         - 
@@ -93,9 +69,9 @@ basic character design:
     wrong point:
       - 
 
-  - 
+  - name: 
     charm:
-      name:
+      title:
         - 
       entity:
         predicament:
@@ -103,7 +79,7 @@ basic character design:
         normaly:
           - 
     desire:
-      name:
+      contents:
         - 
       conflict:
         - 
@@ -116,9 +92,9 @@ basic character design:
     wrong point:
       - 
 
-  - 
+  - name: 
     charm:
-      name:
+      title:
         - 
       entity:
         predicament:
@@ -126,7 +102,30 @@ basic character design:
         normaly:
           - 
     desire:
-      name:
+      contents:
+        - 
+      conflict:
+        - 
+      past connected to desire:
+        - 
+    ordeal:
+      - 
+    right point:
+      - 
+    wrong point:
+      - 
+
+  - name: 
+    charm:
+      title:
+        - 
+      entity:
+        predicament:
+          - 
+        normaly:
+          - 
+    desire:
+      contents:
         - 
       conflict:
         - 

@@ -1,223 +1,239 @@
 # キャラクター
 summary:
+  - dn: セト
+    gists: 主人公
+
+  - dn: ネイア
+    gists: ヒロイン
+
+####################################
+
   - dn: 
     gists: 
 
 
 detail:
-  - group: 
+  - group:
     member:
 
-    ###       ##          ####     ######     ########
-   ## ##      ##           ##     ##    ##    ##
-  ##   ##     ##           ##     ##          ##
- ##     ##    ##           ##     ##          ######
- #########    ##           ##     ##          ##
- ##     ##    ##           ##     ##    ##    ##
- ##     ##    ########    ####     ######     ########
+  ######  ######## ########  #######
+ ##    ## ##          ##    ##     ##
+ ##       ##          ##    ##     ##
+  ######  ######      ##    ##     ##
+       ## ##          ##    ##     ##
+ ##    ## ##          ##    ##     ##
+  ######  ########    ##     #######
 
       - dn: セト
         applicable chapter: continuous
         nature:
           full name: セト・マインスレイアー
           nickname: セト
-          race: 葦人
+          race: ｜葦人《レイル》
           gender: 男
           age: 17
-          eye-catching features: 
-          first impression: 
+          eye-catching features:
+          first impression:
           actual nature:
-            - 
-            - 
-            - 
-          special skills: 
-          role: 
+            - 真の自由を分かっている
+            - 人を愛している
+            - 論理的と感覚的のハイブリッド
+          special skills: 魔法と剣
+          role: 主人公
           note:
             - 
           appearance:
-            overview: 
+            overview: 少年賢者
             face:
-              overview: 
-              hair: 
-              eyes: 
+              overview: 甘く端麗で聡明そう
+              hair: グレイスブラウン
+              eyes: ライトグレープ
             body:
-              overview: 
-              height: 
-              arm: 
-              breast/chest: 
-              waist: 
-              hips: 
-              buttocks: 
-              leg: 
-            voice: 
+              overview: 細マッチョ
+              height: 男性では低いほう
+              arm:
+              breast/chest: 少し張っている
+              waist:
+              hips:
+              buttocks: 締まっている
+              leg: 速そう
+            voice: 元気な少年
           mind:
-            overview: 
-              - 
-              - 
-              - 
-              - 
-  
-      - dn: 
-        applicable chapter: 
+            overview: おとなしめのホーム・アローン
+              - おとなしい
+              - 元気
+              - 思慮深い
+              - 優しい
+
+ ##    ## ######## ####    ###
+ ###   ## ##        ##    ## ##
+ ####  ## ##        ##   ##   ##
+ ## ## ## ######    ##  ##     ##
+ ##  #### ##        ##  #########
+ ##   ### ##        ##  ##     ##
+ ##    ## ######## #### ##     ##
+
+      - dn: ネイア
+        applicable chapter: continuous
         nature:
-          full name: 
-          nickname: 
-          race: 
-          gender: 
-          age: 
-          eye-catching features: 
-          first impression: 
+          full name: ネイア・エースロット
+          nickname: ネイア
+          race: ｜狼獣人《オウクナ》
+          gender: 女
+          age: 17
+          eye-catching features: ディープブルーの狼耳
+          first impression: 凜々しい
           actual nature:
-            - 
-            - 
-            - 
-          special skills: 
-          role: 
+            - セトへの忠誠と忠誠ゆえの厳しさ
+            - 花や可愛い生き物などが好き
+            - 感覚的
+          special skills: 双剣
+          role: ヒロイン
           note:
             - 
           appearance:
-            overview: 
+            overview: 凜々しく可愛い
             face:
-              overview: 
-              hair: 
-              eyes: 
+              overview: 凜々しく可愛い
+              hair: ディープブルーのアップ
+              eyes: ダークレッド
             body:
-              overview: 
-              height: 
-              arm: 
-              breast/chest: 
-              waist: 
-              hips: 
-              buttocks: 
-              leg: 
-            voice: 
+              overview: スタイルがいい
+              height: 159cm
+              arm: すらりと長い
+              breast/chest: ふくよか
+              waist: くびれている
+              hips: 色っぽい
+              buttocks: むっちり
+              leg: 健康的
+            voice: かわいい
           mind:
             overview: 
-              - 
-              - 
-              - 
-              - 
-  
-      - dn: 
-        applicable chapter: 
+              - 優しい
+              - 貞淑
+              - 忠誠心
+              - 寛容
+
+      - dn:
+        applicable chapter:
         nature:
-          full name: 
-          nickname: 
-          race: 
-          gender: 
-          age: 
-          eye-catching features: 
-          first impression: 
+          full name:
+          nickname:
+          race:
+          gender:
+          age:
+          eye-catching features:
+          first impression:
           actual nature:
             - 
             - 
             - 
-          special skills: 
-          role: 
+          special skills:
+          role:
           note:
             - 
           appearance:
-            overview: 
+            overview:
             face:
-              overview: 
-              hair: 
-              eyes: 
+              overview:
+              hair:
+              eyes:
             body:
-              overview: 
-              height: 
-              arm: 
-              breast/chest: 
-              waist: 
-              hips: 
-              buttocks: 
-              leg: 
-            voice: 
+              overview:
+              height:
+              arm:
+              breast/chest:
+              waist:
+              hips:
+              buttocks:
+              leg:
+            voice:
           mind:
-            overview: 
+            overview:
               - 
               - 
               - 
               - 
-  
-      - dn: 
-        applicable chapter: 
+
+      - dn:
+        applicable chapter:
         nature:
-          full name: 
-          nickname: 
-          race: 
-          gender: 
-          age: 
-          eye-catching features: 
-          first impression: 
+          full name:
+          nickname:
+          race:
+          gender:
+          age:
+          eye-catching features:
+          first impression:
           actual nature:
             - 
             - 
             - 
-          special skills: 
-          role: 
+          special skills:
+          role:
           note:
             - 
           appearance:
-            overview: 
+            overview:
             face:
-              overview: 
-              hair: 
-              eyes: 
+              overview:
+              hair:
+              eyes:
             body:
-              overview: 
-              height: 
-              arm: 
-              breast/chest: 
-              waist: 
-              hips: 
-              buttocks: 
-              leg: 
-            voice: 
+              overview:
+              height:
+              arm:
+              breast/chest:
+              waist:
+              hips:
+              buttocks:
+              leg:
+            voice:
           mind:
-            overview: 
+            overview:
               - 
               - 
               - 
               - 
-  
-      - dn: 
-        applicable chapter: 
+
+      - dn:
+        applicable chapter:
         nature:
-          full name: 
-          nickname: 
-          race: 
-          gender: 
-          age: 
-          eye-catching features: 
-          first impression: 
+          full name:
+          nickname:
+          race:
+          gender:
+          age:
+          eye-catching features:
+          first impression:
           actual nature:
             - 
             - 
             - 
-          special skills: 
-          role: 
+          special skills:
+          role:
           note:
             - 
           appearance:
-            overview: 
+            overview:
             face:
-              overview: 
-              hair: 
-              eyes: 
+              overview:
+              hair:
+              eyes:
             body:
-              overview: 
-              height: 
-              arm: 
-              breast/chest: 
-              waist: 
-              hips: 
-              buttocks: 
-              leg: 
-            voice: 
+              overview:
+              height:
+              arm:
+              breast/chest:
+              waist:
+              hips:
+              buttocks:
+              leg:
+            voice:
           mind:
-            overview: 
+            overview:
               - 
               - 
               - 
               - 
-  
+
