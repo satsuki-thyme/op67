@@ -1,11 +1,14 @@
 #  ―自分の血でレベルアップ―
 ## 文書
 ### 本文
-- text/[67]text-chapter-01-001-1.txt: タイトル未定
+- text/[67]text-chapter-01-001.txt: タイトル未定
 
 ### 設計
 - plan/[67]base-chapter-01.yml: 基本設計
 - plan/[67]init-chapter-01.yml: 初期設計
+
+### プロット
+- plot/[67]plot-chapter-01-001.yml: プロット 第1話
 
 ### 設定
 - settings/[67]characters.yml:        キャラクターの設定
